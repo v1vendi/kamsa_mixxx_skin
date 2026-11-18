@@ -89,10 +89,6 @@ git clone https://github.com/v1vendi/kamsa_mixxx_skin.git "<skins directory>/kam
 
 Restart Mixxx. Then choose **kamsa** under Preferences → Interface → Skin. Pick a waveform type that uses the filtered renderer (the default, *Filtered*) to get the rekordbox waveform.
 
-## Known issue
-
-If you switch to the 4-deck layout while decks 3 and 4 are empty, their platters can stay black until a track is loaded into them.
-
 ## License
 
 CC BY-SA 4.0. Based on Rekordmixxx by its contributors. All artwork is original vector art made for this skin.
